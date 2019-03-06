@@ -1,5 +1,7 @@
 # trip-weather-check
 
+link to app: https://trip-weather-check.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
